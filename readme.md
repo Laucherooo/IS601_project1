@@ -1,6 +1,8 @@
 IS601 project2
 
 [Project2](http://chiaproject2.eastus.azurecontainer.io)
+  
+[Demonstration video](https://youtu.be/pw8eFjuTNGE)
 
 --------------------------------------------------------
 
